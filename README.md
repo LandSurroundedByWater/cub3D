@@ -42,8 +42,3 @@ right in the maze.
 - The W, A, S, and D keys must allow you to move the point of view through
 the maze. 
 -  Pressing ESC must close the window and quit the program cleanly.
-
-
-
-
-![Sieppaa6](https://github.com/user-attachments/assets/290d668a-7b78-4b7a-bb7c-5124f66785e2)
