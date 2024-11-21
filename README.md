@@ -2,6 +2,10 @@
 
 ![3t7w9u](https://github.com/user-attachments/assets/ec97717a-0523-4413-8750-0fd8e0405ad2)
 
+
+This game was made with https://github.com/Pik-kak
+
+
 This was an amazing journey to make a raycasting game like Wolfenstein 3D form 1992. We made this game from scratch
 using raycasting an DDA (Digital Differential Analyzer) algorihms to count the size of wall we have to draw. 
 Raycasting makes it possibele to illustrate 3D world for 2D game. Player is really in basic 2D-map which has
